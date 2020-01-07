@@ -1,0 +1,2 @@
+project-name: greeter
+stack: dev.local/appsody/go-functions:0.0
